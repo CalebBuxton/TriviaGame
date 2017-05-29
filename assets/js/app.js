@@ -15,7 +15,7 @@ var choices = [];
 choices[0] = ["Fun", "Coding", "Grass", "Farm Animals"];
 choices[1] = ["112", "25", "86", "47"];
 choices[2] = ["316", "150", "90", "210"];
-choices[3] = ["They are easier to hold", "Their peel is ridig", "It makes peeling easier", "They grow towards the sun"];
+choices[3] = ["They are easier to hold", "Their peel is rigid", "It makes peeling easier", "They grow towards the sun"];
 choices[4] = ["Facebook Addiction Disorder", "Social Media Disforia", "Instagram Filter Personification", "Disconnected Networking Disorder"];
 
 var answers = [];
